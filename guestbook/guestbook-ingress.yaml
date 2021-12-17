@@ -16,4 +16,4 @@ spec:
       - backend:
           serviceName: guestbook-ui
           servicePort: 80
-    host: kalle.staging.avt.st
+    host: kalle2.staging.avt.st
